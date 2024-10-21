@@ -1,0 +1,11 @@
+# Ignore hidden system files
+.DS_Store
+Thumbs.db
+
+# Ignore Windows system files
+desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Ignore user-specific files and directories
+AppData/
